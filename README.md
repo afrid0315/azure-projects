@@ -8,3 +8,4 @@
 #### Application Load Balancer - App Gateway (Application Gateway) L7
 #### Network Load Balancer     - Load Balancer L4
 ####                -            VPN Gateway
+#### VPC            -  Virtual Network
