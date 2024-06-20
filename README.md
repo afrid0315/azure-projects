@@ -9,3 +9,5 @@
 #### Network Load Balancer     - Load Balancer L4
 ####                -            VPN Gateway
 #### VPC            -  Virtual Network
+#### aws user data  - azure custom data 
+#### no service    - azure user data
