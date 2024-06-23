@@ -1,5 +1,5 @@
 # azure-projects
-
+#### AWS           - Azure
 #### EC2 Instances - Virtual Machines
 #### Autoscaling   - Virtual Machines Scale Set
 #### VPC Peering   - VNet Peering
@@ -11,3 +11,5 @@
 #### VPC            -  Virtual Network
 #### aws user data  - azure custom data 
 #### no service    - azure user data
+#### EBS           - azure disks
+#### EFS           - AZURE files
