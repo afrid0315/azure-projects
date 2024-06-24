@@ -13,3 +13,4 @@
 #### no service    - azure user data
 #### EBS           - azure disks
 #### EFS           - AZURE files
+#### AWS Secret manager - Azure key vault
