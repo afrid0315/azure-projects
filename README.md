@@ -14,3 +14,5 @@
 #### EBS           - azure disks
 #### EFS           - AZURE files
 #### AWS Secret manager - Azure key vault
+#### AWS Elastic Bean Stalk - Azure App services
+#### Lambda        -  Azure Functions 
